@@ -81,7 +81,7 @@ export function HeroSection() {
         transition={{ duration: 1.2, ease: [0.21, 0.47, 0.32, 0.98] }}
       >
         <video ref={videoRef} autoPlay muted loop playsInline className="w-full h-full object-cover">
-          <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Qabas_Render%20%281%29-iLBZwGSdCUSxviTNnNdn6WZRxhkoAG.mp4" type="video/mp4" />
+          <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/new%20main%20%281%29-hjc7kjzw3pnlywJj0Q1nNMZvRLADKg.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-black/30" />
       </motion.div>
